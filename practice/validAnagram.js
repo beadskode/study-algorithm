@@ -66,7 +66,7 @@
 // ** 문자열 인자를 여러개 받는 경우에는 사용이 불가능하므로 올바르지 못한 코드라고 생각된다.
 
 
-// *** 정답 확인후 풀이 ***
+// *** 다른 풀이 확인후 풀이 ***
 function validAnagram(a, b){
     if (a.length !== b.length) {
         return false;
